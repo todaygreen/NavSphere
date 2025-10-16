@@ -166,6 +166,14 @@
               "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
               "icon": "/assets/favicon_1759046289851.png",
               "enabled": true
+            },
+            {
+              "id": "1760599338395",
+              "title": "豆包",
+              "href": "https://www.doubao.com/chat/",
+              "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
+              "icon": "/assets/favicon_1760599343762.png",
+              "enabled": true
             }
           ]
         },
