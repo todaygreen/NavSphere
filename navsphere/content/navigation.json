@@ -120,6 +120,14 @@
           "description": "Learn about ProjectDiscovery&#x27;s Open Source Tools",
           "icon": "/assets/favicon_1760666488618.png",
           "enabled": true
+        },
+        {
+          "id": "1760666932787",
+          "title": "Ics",
+          "href": "https://ics.cnvd.org.cn/index",
+          "description": "访问 ics.cnvd.org.cn",
+          "icon": "/assets/favicon_1760667016748.png",
+          "enabled": true
         }
       ],
       "subCategories": []
