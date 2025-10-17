@@ -1223,6 +1223,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1760666409857",
+      "title": "工控安全",
+      "icon": "FolderKanban",
+      "description": "工控安全类集合",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
