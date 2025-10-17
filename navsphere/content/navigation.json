@@ -1230,7 +1230,16 @@
       "icon": "FolderKanban",
       "description": "工控安全类集合",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1760666457873",
+          "title": "Open Source Tools - ProjectDiscovery Documentation",
+          "href": "https://docs.projectdiscovery.io/opensource/index#discover",
+          "description": "Learn about ProjectDiscovery&#x27;s Open Source Tools",
+          "icon": "/assets/favicon_1760666488618.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
